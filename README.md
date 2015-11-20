@@ -12,6 +12,8 @@ Copy the dashboard-custom.php to VVV/www/default/dashboard-custom.php
 
 ---
 ### UPDATE Instructions 
+
+[![Join the chat at https://gitter.im/topdown/VVV-Dashboard](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/topdown/VVV-Dashboard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 From your dashboard directory ```git pull```
 
 You no longer need to copy the style.css anywhere.
